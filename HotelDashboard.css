@@ -1,0 +1,22 @@
+@media only screen and (max-width: 1033px) {
+  .mainDiv {
+    margin-top: 1.5rem;
+    width: auto;
+    height: auto !important;
+  }
+  .mainDivDashboard {
+    justify-content: flex-start !important;
+  }
+  .KPIcolumn {
+    padding: 0 !important;
+    padding-left: 12% !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+  }
+  .KPIcolumn div {
+    width: 80%;
+  }
+  .filterBut{
+    margin-left: 3.2rem !important;
+  }
+}

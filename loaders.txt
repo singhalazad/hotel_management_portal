@@ -1,0 +1,12 @@
+-------------------------------------------------For Spin.jsx: 
+  
+1.  const [loading, setLoading] = useState(false);
+
+2.  setLoading(true)
+
+3.  finally {
+        setLoading(false);
+    }
+
+4.       <Spin open={loading} />
+    </div>
